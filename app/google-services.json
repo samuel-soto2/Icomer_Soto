@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018872043154",
+    "project_id": "samuel-3d8ed",
+    "storage_bucket": "samuel-3d8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018872043154:android:71a05d68b57f78c27f784b",
+        "android_client_info": {
+          "package_name": "com.example.customlistviem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvpU1cLQv3JWmJ_huaueNseFh5pXX1kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018872043154:android:2cdb10ea288a56f37f784b",
+        "android_client_info": {
+          "package_name": "com.example.loginsamuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvpU1cLQv3JWmJ_huaueNseFh5pXX1kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
